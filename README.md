@@ -4,5 +4,7 @@ Stay updated with the latest weather forecast for your location, displayed direc
 There are still bugs in this version, it works, but noe entirely :(
 
 # Preview
-<img src="https://pock.app/_nuxt/img/pock_weather_widget.584df8f.png" height="60">
+
+<img width="1004" height="30" alt="Touch Barショット 2025-09-29 13 04 04" src="https://github.com/user-attachments/assets/47608c76-9bd7-45f1-810b-8348eb7954d8" />
+
 # pock-touchbar-weather-widget
